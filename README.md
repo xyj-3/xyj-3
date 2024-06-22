@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- Ask me about:
+  - G HUB and the G600 mouse.
+  - 3D Metal Model kits.
+- Fun fact: I drew this turtle (tortoise) when I was 14.
+
+![xyj-3's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyj-3&show_icons=true&include_all_commits=true&show=reviews)
+
 <!--
 **xyj-3/xyj-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
