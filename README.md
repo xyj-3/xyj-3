@@ -9,6 +9,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyj-3&layout=compact&hide_border=true&hide=html,css&langs_count=8&size_weight=0.5&count_weight=0.5)
 
+![My Skills](https://skillicons.dev/icons?i=git,py,js,ts,cpp,rust,cs,ruby,java,regex,latex,astro,svelte,tauri,tailwind,django,rails,express,flask,nodejs,docker,notion,postman&perline=8&theme=light)
+
 <!--
 **xyj-3/xyj-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
